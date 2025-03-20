@@ -8,3 +8,5 @@ LAB_6(01)(https://github.com/sandeep0666/Application-Of-Data-Mining/blob/main/La
 
 LAB_6(02)(https://github.com/sandeep0666/Application-Of-Data-Mining/blob/main/Lab_06(2).ipynb)
 
+LAB_7(https://github.com/sandeep0666/Application-Of-Data-Mining/blob/main/ADM_lab_07.ipynb)
+
